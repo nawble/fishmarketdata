@@ -35,6 +35,15 @@
             "timeExpired": null,
             "description": "testing from discord",
             "isActive": true
+        },
+        {
+            "codeName": "discord_lone_beta",
+            "rewardType": "Chest",
+            "amount": 100,
+            "limitedUses": 100,
+            "timeExpired": 1737115200,
+            "description": "this is another test",
+            "isActive": true
         }
     ]
 }
