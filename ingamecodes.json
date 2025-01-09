@@ -1,0 +1,32 @@
+{
+    "codes": [
+      {
+        "codeName": "WELCOME10",          
+        "rewardType": "Bucks",           
+        "amount": 10,                    
+        "limitedUses": 10,               
+        "timeExpired": 1700000000,       
+        "description": "Welcome bonus for new players!", 
+        "isActive": true                 
+      },
+      {
+        "codeName": "FISHINGFUN",
+        "rewardType": "FishBait",
+        "amount": 5,
+        "limitedUses": null,
+        "timeExpired": null,
+        "description": "Use this code to get some Fish Bait and enjoy fishing!",
+        "isActive": true
+      },
+      {
+        "codeName": "TREASUREHUNT",
+        "rewardType": "Chest",
+        "amount": 1,
+        "limitedUses": 100,
+        "timeExpired": 1700500000,
+        "description": "Find treasures with this exclusive chest!",
+        "isActive": true
+      }
+    ]
+  }
+  
