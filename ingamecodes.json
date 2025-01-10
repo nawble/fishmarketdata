@@ -44,6 +44,15 @@
             "timeExpired": 1737115200,
             "description": "this is another test",
             "isActive": true
+        },
+        {
+            "codeName": "success",
+            "rewardType": "Bucks",
+            "amount": 10000,
+            "limitedUses": null,
+            "timeExpired": 1737115200,
+            "description": "No description provided",
+            "isActive": true
         }
     ]
 }
